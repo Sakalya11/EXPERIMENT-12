@@ -170,7 +170,9 @@ int main() {
 }
 
 ~~~
-## Code Output
+## Code Output:
+![image](https://github.com/user-attachments/assets/e6450658-eca7-4578-80b3-a59e24771819)
+
 
 ## Conclusion
 - We learnt how to use destructors in C++
