@@ -90,7 +90,9 @@ int main() {
     return 0;
 }
 ~~~
-## Code Output 
+## Code Output :
+![image](https://github.com/user-attachments/assets/026f27e4-7bd6-4b8a-bbe4-009029c51da8)
+
 
 
 ## Conclusion 
