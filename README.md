@@ -127,8 +127,8 @@ int main() {
 
 5. **Encapsulation:** Keeps resource management encapsulated within the object, adhering to the principles of object-oriented programming.
 
-                 |
 
+Code:
 ~~~
 #include <iostream>
 
